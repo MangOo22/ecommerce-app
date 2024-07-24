@@ -97,7 +97,7 @@ The API design for `ecommerce` follows RESTful principles, with clear and predic
 -   **Middleware**: Implement custom middleware functions for authentication, validation, error handling, etc.
 -   **Exceptions**: Define custom exception classes to handle errors and exceptions in the application.
 -   **Utils**: Contain utility functions, helper classes, and third-party integrations to assist with common tasks.
--   **DB**: Contain data access objects (DAOs) to interact with the MongoDB database.
+-   **DB**: Contain data access objects to interact with the MongoDB database.
 
 ## Error Handling
 
@@ -239,15 +239,15 @@ ecommerce/
 ├── README.md
 ```
 
-# Getting Started 🚀
+# Getting Started
 
-## Prerequisites 📋
+## Prerequisites
 
 -   Node.js installed on your local machine.
 -   MongoDB installed on your local machine or MongoDB Atlas account.
 -   Stripe account for payment gateway integration.
 
-## Installation 🔧
+## Installation
 
 1. Clone the repository:
 
