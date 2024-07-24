@@ -1,6 +1,19 @@
 `Ecommerce Backend API Documentation`
 
-# Tech Stack And Tools
+# Introduction
+
+  Welcome to our ecommerce API! This document will guide you through the process of integrating with our API, including information on available endpoints, request and response formats, and authentication.
+
+# Ecommerce API
+
+  This API provides a simple and easy-to-use interface for creating, managing, and querying data about an online store. It includes endpoints for creating and managing users, categories, subcategories, brands, products, reviews, wishlists, addresses, coupons, carts, and orders.
+
+## Getting Started
+
+  To get started with the API, you will need to first create an account. Once you have created an account, you will be able to generate an API key. This key will be used to authenticate all requests to the API.
+
+
+# Tools
 
 -   `Node.js`: A JavaScript runtime built on Chrome's V8 JavaScript engine, used for building scalable network applications.
 -   `Express.js`: A fast, unopinionated, minimalist web framework for Node.js, used for building APIs and web applications.
