@@ -1,4 +1,4 @@
-`Ecommerce Backend API Documentation`
+# Ecommerce Backend App
 
 # Introduction
 
@@ -98,7 +98,6 @@ The API design for `ecommerce` follows RESTful principles, with clear and predic
 -   **Exceptions**: Define custom exception classes to handle errors and exceptions in the application.
 -   **Utils**: Contain utility functions, helper classes, and third-party integrations to assist with common tasks.
 -   **DB**: Contain data access objects (DAOs) to interact with the MongoDB database.
--   **Docs**: Define Swagger documentation files for API endpoints and models.
 
 ## Error Handling
 
